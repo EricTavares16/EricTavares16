@@ -1,5 +1,5 @@
 <div class="description" style="display: inline_block">
-    <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height= 35px; alt="hello"> Hi, I’m Eric Tavares</h1>
+    <h1><img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" height= 35px; alt="hello"> I’m Eric Tavares</h1>
     <a href="https://github.com/EricTavares16">
      <img src="https://github-readme-stats.vercel.app/api?username=EricTavares16&show_icons=true&theme=dark" alt="nota"height=200px>
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricTavares16&layout=compact" alt="top language">
